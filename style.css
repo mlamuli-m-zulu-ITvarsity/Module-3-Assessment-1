@@ -86,6 +86,10 @@ body{
     width: 80%;
 }
 
+a.home-menu-item :hover{
+    color: rgb(57, 104, 104);
+}
+
 /*=======================MEALS PAGE========================= */
 
 #meals{
@@ -122,6 +126,10 @@ body{
     color: #4d4d4d;
     margin-top: -7px;
     padding-left: 10px;
+}
+
+.meals-list a :hover{
+    color: cornflowerblue;
 }
 
 /*=======================RECIPE PAGE========================= */
